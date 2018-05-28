@@ -44,6 +44,10 @@ public class OverRide {
         Parent pc= new Child();
         pc.showMe();
         pc.willIRun();
-        
+        Child c1 = (Child)pc;
+        c1.showMe();
+        c1.showMeToo();
+        c1.willIRun();
+
     }
 }
