@@ -1,0 +1,3 @@
+^[a-z0-9]+[@][a-z]+[.][a-z]{2,5}$ for email
+^[a-z0-9]+[@][(gmail)|(webbhumi)]+[.][a-z]{2,5}$ for email with Gmail and WebBhumi domain
+^[+][9][1][9876][0-9]{9}$ Indian Mobile number starting with +919xxxxxxx/+918xxxxxxx/+917xxxxxxx/+916xxxxxxx
